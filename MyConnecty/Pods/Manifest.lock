@@ -1,3 +1,20 @@
-PODFILE CHECKSUM: 66f2c53049e6c94908792a3a46d7ea227ec7c7c9
+PODS:
+  - PagingKit (1.18.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - PagingKit
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - PagingKit
+    - SnapKit
+
+SPEC CHECKSUMS:
+  PagingKit: 366cc22d74f4de7768bb31d8fcd49182f53e3ce7
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: fb52499f1213bbbabe33dfbb9e7d6103282c4569
 
 COCOAPODS: 1.10.1
